@@ -15,6 +15,9 @@ This repository presents an implementation of an image segmentation model using 
 ## Hyperparameter Settings
 Model parameters, such as learning rate, discount factor, and batch size, were configured to meet the specificities of the dataset and obtain maximum performance in the segmentation task.
 
+![image](https://github.com/user-attachments/assets/7af25af3-00c0-4515-9bbc-5caa18b9f3ff)
+
+
 The dataset used was:
 
 @dataset{alekseev_anton_2021_5233380,
